@@ -169,6 +169,5 @@ If anyone is looking for some support (i.e either an example, or an open-source 
 <p align="right">Powered by <a href="https://newsapi.org" target="_blank">NewsAPI.org</a>
 </p>
 <br/>
----
 
 <p align="center">Made with ❤️ by <a href="https://www.novvum.io">Novvum</a></p>
